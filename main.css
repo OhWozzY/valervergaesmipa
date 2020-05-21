@@ -1,0 +1,48 @@
+.imagenes{
+    border: 1px solid deeppink;
+    background: black;
+    width: 920px;
+    margin: auto;
+    
+}
+
+.salmo{
+    font-family: Arial,;
+    font: 400;
+    color: deeppink;
+    border: 1px solid deeppink;
+    width: initial;
+    text-align: center;
+    background: black;
+}
+
+.titulos{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: 800;
+    font-weight: 100;
+    color: deeppink;
+    display: block;
+    text-align:center;
+}
+
+.ayudas{
+    font: 400;
+    font-family: cursive;
+    color: deeppink;
+    text-align: right;
+    font-weight: 800;
+}
+
+body{
+    text-align: center;
+    background-image: url(matrixtres.gif);
+
+}
+
+.citas{
+    color: pink;
+}
+
+.colorines{
+    color: black
+}
